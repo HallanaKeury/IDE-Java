@@ -71,7 +71,11 @@ na caixa abaixo, configurar o path > editar> novo> cola o caminho e acrescenta \
 
 📍 Criando um projeto 
 
-Muda a pespectiva de java EE para Java (Vai na lupinha ou ctrl + 3)
+🔹 1. Muda a pespectiva de java EE para Java (Vai na lupinha ou ctrl + 3)
+
+🔹 2. New package 
+
+🔹 3. New Java Class
 
 
 
