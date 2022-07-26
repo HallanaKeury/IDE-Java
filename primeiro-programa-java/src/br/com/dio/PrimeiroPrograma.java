@@ -1,4 +1,4 @@
-package com.dio;
+package br.com.dio;
 
 public class PrimeiroPrograma {
 
