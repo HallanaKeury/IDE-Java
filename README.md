@@ -78,7 +78,9 @@ na caixa abaixo, configurar o path > editar> novo> cola o caminho e acrescenta \
 🔹 3. New Java Class
 
 
- ## Instalação IntelliJ IDEA Community
+ ## IntelliJ IDEA Community
+ 
+📍 Instalação IntelliJ IDEA Community
  
 
 🔹 1. Entre no site ofical do INTELLIJ
@@ -143,6 +145,21 @@ na caixa abaixo, configurar o path > editar> novo> cola o caminho e acrescenta \
 
 🔹 4. One dark theme
 > Tema dark com letras coloridas
+
+## Visual Studio Code
+
+
+📍 INSTALAÇÃO 
+
+https://code.visualstudio.com/
+
+📍 Plugins
+
+🔹 1. Start git-bash
+> Abre o bash pelo visual studio code no repositório configurado
+
+🔹 2. Extension Pack for Java
+> Pacote de extensões do Java
          
 
 
