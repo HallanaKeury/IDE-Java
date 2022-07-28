@@ -30,7 +30,7 @@ abre a ferramenta do windows editor de variáveis de sistema
 variáveis de ambiente > novo> cola o endereço copiado com o nome JAVA_HOME
 na caixa abaixo, configurar o path > editar> novo> cola o caminho e acrescenta \bin no final >mover para cima até fica no topo > ok
 
- ##  ECLIPSE 
+  ##  ECLIPSE 
 
 📍 BAIXANDO IDE ECLIPSE
 
@@ -76,6 +76,79 @@ na caixa abaixo, configurar o path > editar> novo> cola o caminho e acrescenta \
 🔹 2. New package 
 
 🔹 3. New Java Class
+
+
+ ## Instalação IntelliJ IDEA Community
+ 
+
+🔹 1. Entre no site ofical do INTELLIJ
+
+🔹 2. Escolha a opção Community e faça o download
+
+🔹 3. Siga com next
+
+🔹 4. Na opção Installation Options, deixe selecionado as opções: 
+
+ - 4.1 64-bit launcher (caso seu sistema seja 64-bit, caso não, selecione 32-bit)
+ - 4.2 Add "Open Folder as Project"
+ - 4.3 .java - .groovy - .kt - .kts
+ - 4.4 Add lauchers dir to the PATH
+ - 4.5 Next
+
+🔹 5. Install
+
+🔹 6. Para finalizar a instalação, escolha a opção reebot later
+
+🔹7. Com o IntelliJ já instalado, vamos iniciar:
+
+ -  7.1 Aceite os termos: I confirm that I have... >> Confirm
+
+ -  7.2 Data Sharing >> Send Anonymous Statistics
+
+🔹8. IDE pronta para uso!
+
+📍 ATALHOS DO INTELLIJ
+
+ - Alt + insert = apareceo menu, escolhe se quer criar um pacote, ou classe...
+ - Ctrl + shift +f10 = executa  o código
+ - Ctrl +shift +/ = comenta o bloco de código selecionado
+ - Ctrl + / = comenta linha por linha
+ - Shift + 6 
+ - Ctrl + alt+ L=  refatorar o código
+ - Ctrl + d = duplica a linha
+ - Ctrl + t = deleta a linha
+ - Ctrl + n = abrir uma classe
+ 
+ 
+
+
+📍 Criando um projeto
+
+🔹 1. Alt + insert = New package
+
+🔹 2. Alt + insert = New Class
+
+
+
+📍 Plugins
+
+🔹 1. Rainbow Brackets
+> Deixa os brackets coloridos
+
+🔹 2. Git tool box
+> Mostra em comentário, no código detalhes do último commit
+
+🔹 3. Key Promoter X
+> Dá dicas e sugestões de atalhos de teclado
+
+🔹 4. One dark theme
+> Tema dark com letras coloridas
+         
+
+
+
+
+
 
 
 
